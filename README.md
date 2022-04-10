@@ -23,7 +23,7 @@ As you're developing, this extension will automatically update your status on Di
 
 Here's a demonstration of how it looks in Discord
 <p align="center"> 
-  <img src="https://i.imgur.com/AgCFkAH.png" />
+  <img src="https://prnt.sc/6PqGTOOUj_No" />
   <img src="https://i.imgur.com/kNPuMU5.png" />
 </p>
 
