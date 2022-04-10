@@ -1,22 +1,4 @@
 # DiscordRPCVS for Visual Studio
-
-<div align="center">
-    <p>
-        <a href="https://marketplace.visualstudio.com/items?itemName=1thenikita.drpcvs2019">
-            <img src="https://vsmarketplacebadge.apphb.com/version/1thenikita.drpcvs2019.svg" alt="VS Marketplace">
-        </a>
-        <a href="https://marketplace.visualstudio.com/items?itemName=1thenikita.drpcvs2019">
-            <img src="https://vsmarketplacebadge.apphb.com/installs-short/1thenikita.drpcvs2019.svg" alt="VS Marketplace">
-        </a>
-        <a href="https://marketplace.visualstudio.com/items?itemName=1thenikita.drpcvs2019">
-            <img src="https://vsmarketplacebadge.apphb.com/downloads-short/1thenikita.drpcvs2019.svg" alt="VS Marketplace">
-        </a>
-        <a href="https://discord.gg/X73DBfA">
-            <img src="https://canary.discordapp.com/api/guilds/442747591310966804/embed.png" alt="Discord server">
-        </a>
-    </p>
-</div>
-
 This extension enables on [Discord Rich Presence] for Visual Studio 2017, 2019 and 2022.
 
 As you're developing, this extension will automatically update your status on Discord to tell the world what you're coding.
