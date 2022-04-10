@@ -3,7 +3,7 @@ This extension enables on [Discord Rich Presence] for Visual Studio 2017, 2019 a
 
 As you're developing, this extension will automatically update your status on Discord to tell the world what you're coding.
 
-Here's a demonstration of how it looks in Discord
+Here's a demonstration of how it looks in Discord:
 <p align="center"> 
   <img src="https://i.imgur.com/OmQ7Y6j.png" />
 </p>
