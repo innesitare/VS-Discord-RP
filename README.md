@@ -1,4 +1,4 @@
-# DiscordRPCVS for Visual Studio
+# Discord Rich Presence for Visual Studio
 This extension enables on [Discord Rich Presence] for Visual Studio 2017, 2019 and 2022.
 
 As you're developing, this extension will automatically update your status on Discord to tell the world what you're coding.
